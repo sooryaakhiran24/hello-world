@@ -28,11 +28,19 @@
 
 ![Copying the URL for cloning](/assets/github_clone_url.png)
 
+##### Copying the URL for cloning
+
 ![Cloning the project into the local machine](/assets/git_clone.png)
+
+##### Cloning the project into the local machine
 
 ![Git status and git add](/assets/git_status_and_git_add.png)
 
-![Git Commit and push](/assets/git_commit_and_git_push.png)
+##### Git status and git add
+
+![Git commit and git push](/assets/git_commit_and_git_push.png)
+
+##### Git commit and git push
 
 
 
