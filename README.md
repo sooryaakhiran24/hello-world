@@ -12,6 +12,7 @@
     `git init`
 
 ![My GitHub Profile page](/assets/github_profile.png)
+##### My GitHub Profile page
 
 ### Steps to clone the project and commit your changes to GitHub
 
