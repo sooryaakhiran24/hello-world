@@ -11,7 +11,7 @@
 8. Initialize the git using the command 
     `git init`
 
-![My GitHub Profile page]("/assets/github_profile.png")
+![My GitHub Profile page](/assets/github_profile.png)
 
 ### Steps to clone the project and commit your changes to GitHub
 
