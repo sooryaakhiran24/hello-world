@@ -26,3 +26,14 @@
 8. Push the committed changes using the command `git push`
 9. Check the GitHub repository whether the committed contents is been updated or not.
 
+![Copying the URL for cloning](/assets/github_clone_url.png)
+
+![Cloning the project into the local machine](/assets/git_clone.png)
+
+![Git status and git add](/assets/git_status_and_git_add.png)
+
+![Git Commit and push](/assets/git_commit_and_git_push.png)
+
+
+
+
